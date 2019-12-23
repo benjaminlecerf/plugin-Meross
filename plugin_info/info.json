@@ -1,6 +1,6 @@
 {
-  "id": "meross",
-  "name": "Meross",
+  "id": "merossben",
+  "name": "Meross BenDev",
   "description": "Plugin permettant de gérer les prises Meross",
   "licence": "AGPL",
   "author": "NextDom (Astral0, Byackee, DanoneKiD)",
